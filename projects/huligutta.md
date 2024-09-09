@@ -12,7 +12,7 @@ labels:
 summary: "Automatic Strategy Inference for Games is a Vertically Integrated Project (VIP) led by professor Naranya Santhanam at UH Manoa that I collaborated on. The goal is to use reinforcement learning to teach a computer to play Huligutta. [VIP project page](https://manoa.hawaii.edu/uh-vip/project/asig/)"
 ---
 
-<img class="img-fluid" src="../img/tigerVgoat.png">
+<img class="img-fluid" src="../img/Goat_Victory.png">
 
 ## Intro and Rules
 
