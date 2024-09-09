@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "Automatic Strategy Inference for Games"
 date: 2024
-published: false
+published: true
 labels:
   - Jupyter
   - Python
@@ -12,7 +12,7 @@ labels:
 summary: "Automatic Strategy Inference for Games is a Vertically Integrated Project (VIP) led by professor Naranya Santhanam at UH Manoa that I collaborated on. The goal is to use reinforcement learning to teach a computer to play Huligutta. [VIP project page](https://manoa.hawaii.edu/uh-vip/project/asig/)"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/tigerVgoat.png">
 
 ## Intro and Rules
 
@@ -22,4 +22,4 @@ Huligutta is based on a board game from India of the same name. The objective is
 
 The objective of this project is to use machine learning and reinforcement learning to teach a computer how to play Huligutta. The computer takes the role of the goat player. We implemented a value iteration that allows the goat player to look-ahead two moves. This look-ahead function takes in possible game states that would occur if a move was made, then return the move that would be the "best" move based on a value function finds the "value" of a possible move, and then returns the move that has the highest probability of winning. With this two step look-ahead gives the computer/goat player a roughly 95% win rate. The tiger player follows a "greedy algorithm". This means that the tigers will make a random move until they see that one of the tigers could capture a goat. If a capture is possible in that move, then the tiger will make that move.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/nsanthan/tigersandgoats/tree/spr-23"><i class="large github icon "></i>nsanthan/tigersandgoats/tree/spr-23</a>
