@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/tigerVgoat.png
 title: "Automatic Strategy Inference for Games"
 date: 2024
 published: true
