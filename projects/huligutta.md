@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Automatic Strategy Inference for Games"
-date: 2014
-published: true
+date: 2024
+published: false
 labels:
   - Jupyter
   - Python
