@@ -11,7 +11,6 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 Depending on the person, asking a question can either be something trivial or a daunting task. As an introvert, I often hesitate to ask questions thinking that they might be “dumb” or maybe I can not think of a way to word it in a way to convey what I truly mean. While there is not a surefire solution to being confident in asking a question, there is a way to formulate questions so that others are more willing to answer and more likely to be able to help.
 
