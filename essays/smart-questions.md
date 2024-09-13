@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "To Ask or Not to Ask?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2024-09-12
 published: true
 labels:
   - Questions
