@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Pretty Face, Ugly Personality"
+title: "Pattern Power"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
 published: true
