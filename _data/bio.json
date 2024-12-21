@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Posix C/C++", "Python", "Javascript", "Typescript", "Verilog", "System Verilog" ]
+      "keywords": [ "Posix C/C++", "Python", "Javascript", "Typescript", "Verilog", "System Verilog", "Bootstrap/React", "Next.js", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
@@ -31,11 +31,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Electrical and Computer Engineering (expected Spring, 2025)",
+      "area": "Electrical and Computer Engineering ( Bachelor's expected Spring, 2025)",
       "studyType": "B.S. and M.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [ "ECE160", "ECE211", "ECE213", "ECE260", "ECE315", "ECE323", "ECE324", "ECE342", "ECE345", "ECE361", "ECE362", "ECE367", "ECE371", "ECE468", "ECE660", "ICS314" ]
+      "courses": [ "ECE160 Programming for Engineers", "ECE211 Basic Circuit Analysis I", "ECE213 Basic Circuit Analysis II", "ECE260 Introduction to Digital Design", "ECE315 Signal and System Analysis", "ECE323 Microelectronic Circuits I", "ECE324 Physical Electronics", "ECE342 Probability and Statistics", "ECE345 Linear Algebra for Engineers", "ECE361 Digital Systems and Computer Design", "ECE362 Discrete Mathematics", "ECE367 Data Structures and Algorithms", "ECE371 Engineering Electromagnetic I ", "ECE468 Operating Systems", "ECE660 Computer Architecture I", "ICS314 Software Engineering" ]
     }
   ],
   
