@@ -31,11 +31,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Electrical and Computer Engineering ( Bachelor's expected Spring, 2025)",
+      "area": "Electrical and Computer Engineering (Bachelor's expected Spring, 2025)",
       "studyType": "B.S. and M.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [ "ECE160 Programming for Engineers", "ECE211 Basic Circuit Analysis I", "ECE213 Basic Circuit Analysis II", "ECE260 Introduction to Digital Design", "ECE315 Signal and System Analysis", "ECE323 Microelectronic Circuits I", "ECE324 Physical Electronics", "ECE342 Probability and Statistics", "ECE345 Linear Algebra for Engineers", "ECE361 Digital Systems and Computer Design", "ECE362 Discrete Mathematics", "ECE367 Data Structures and Algorithms", "ECE371 Engineering Electromagnetic I ", "ECE468 Operating Systems", "ECE660 Computer Architecture I", "ICS314 Software Engineering" ]
+      "courses": [ "ECE160 Programming for Engineers", "ECE211 Basic Circuit Analysis I", "ECE213 Basic Circuit Analysis II", "ECE260 Introduction to Digital Design", "ECE315 Signal and System Analysis", "ECE323 Microelectronic Circuits I", "ECE324 Physical Electronics", "ECE342 Probability and Statistics", "ECE345 Linear Algebra for Engineers", "ECE361 Digital Systems and Computer Design", "ECE362 Discrete Mathematics", "ECE367 Data Structures and Algorithms", "ECE371 Engineering Electromagnetic I", "ECE468 Operating Systems", "ECE491F AI Security", "ECE607 Network Algorithms", "ECE660 Computer Architecture I", "ICS314 Software Engineering" ]
     }
   ],
   
