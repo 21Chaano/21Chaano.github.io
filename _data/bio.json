@@ -6,7 +6,7 @@
     "email": "ctano68@hawaii.edu",
     "phone": "808-542-0563",
     "website": "https://21Chaano.github.io",
-    "summary": "I am studying for a M.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2026, then continue my studies for a PhD in Computer Engineering.",
+    "summary": "I am studying for an M.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Fall 2026, then continue my studies for a PhD in Computer Engineering.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "21Chaano", "url": "http://github.com/21Chaano" },
@@ -16,7 +16,8 @@
   "interests": [
     { "name": "Computer Hardware" },
     { "name": "Microelectronics" },
-    { "name": "Robotics" }
+    { "name": "Robotics" },
+    { "name": "Artificial Intelligence" }
   ],
   "skills": [
     {
@@ -25,17 +26,25 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Windows", "Linux" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Electrical and Computer Engineering (Bachelor's expected Spring, 2025)",
-      "studyType": "B.S. and M.S.",
-      "startDate": "2021-08-23",
+      "area": "Electrical and Computer Engineering (Master's expected Fall 2026)",
+      "studyType": "M.S.",
+      "startDate": "2025-08",
       "endDate": "Present",
-      "courses": [ "ECE160 Programming for Engineers", "ECE211 Basic Circuit Analysis I", "ECE213 Basic Circuit Analysis II", "ECE260 Introduction to Digital Design", "ECE315 Signal and System Analysis", "ECE323 Microelectronic Circuits I", "ECE324 Physical Electronics", "ECE342 Probability and Statistics", "ECE345 Linear Algebra for Engineers", "ECE361 Digital Systems and Computer Design", "ECE362 Discrete Mathematics", "ECE367 Data Structures and Algorithms", "ECE371 Engineering Electromagnetic I", "ECE468 Operating Systems", "ECE491F AI Security", "ECE607 Network Algorithms", "ECE660 Computer Architecture I", "ICS314 Software Engineering" ]
+      "courses": [ "ECE491H Robotics", "ECE602 Algorithms", "ECE607 Network Algorithms", "ECE609 Computer and Network Security", "ECE660 Computer Architecture I", "ECE681 Biosensors and Bioelectronics", "ECE693F Software Reverse Engineering" ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "B.S.",
+      "startDate": "2021-08",
+      "endDate": "2025-05",
+      "courses": [ "ECE160 Programming for Engineers", "ECE211 Basic Circuit Analysis I", "ECE213 Basic Circuit Analysis II", "ECE260 Introduction to Digital Design", "ECE315 Signal and System Analysis", "ECE323 Microelectronic Circuits I", "ECE324 Physical Electronics", "ECE342 Probability and Statistics", "ECE345 Linear Algebra for Engineers", "ECE361 Digital Systems and Computer Design", "ECE362 Discrete Mathematics", "ECE367 Data Structures and Algorithms", "ECE371 Engineering Electromagnetic I", "ECE468 Operating Systems", "ECE491F AI Security", "ICS314 Software Engineering" ]
     }
   ],
   
